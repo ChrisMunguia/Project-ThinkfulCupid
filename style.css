@@ -154,4 +154,16 @@ footer p {
 		justify-content: space-evenly;
 		align-items: center;
 	}
+
+	h3 {
+		height: 30px;
+	}
+
+	section#blog div.group div.item {
+		margin: 0px 5px;
+	}
+
+	section#blog p {
+		padding-bottom: 10px;
+	}
 }
